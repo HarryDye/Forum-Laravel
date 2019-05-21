@@ -1,5 +1,8 @@
 --Start up--
 
+composer install
+npm install
+
 database -  open xamp
             SQLyog -> forum2
             
