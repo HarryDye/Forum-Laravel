@@ -1,5 +1,7 @@
 --Start up--
 
+https://stackoverflow.com/questions/31291317/php-is-not-recognized-as-an-internal-or-external-command-in-command-prompt/31291404
+
 composer install
 npm install
 
