@@ -8,7 +8,7 @@ npm install
 database -  open xamp
             SQLyog -> forum2
             
-Server - cd C:\Users\harry.dye\Documents\Treehouse\Laravel\Lets-Build-a-Forum-in-Laravel
+Server - cd C:\Users\user.name\Documents\Treehouse\Laravel\Lets-Build-a-Forum-in-Laravel
          php artisan serve
          
 Vue to work run - npm run watch
